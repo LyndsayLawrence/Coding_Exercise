@@ -16,3 +16,4 @@ ant compile
 ant jar
 ant run
 ```
+Once it is running you will be presented with a command line menu of options.
