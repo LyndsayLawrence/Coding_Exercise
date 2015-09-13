@@ -1,0 +1,19 @@
+### JetBrains
+*.iml
+
+## Directory-based project:
+.idea/
+
+# IntelliJ
+out/
+
+### Java
+*.class
+build/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
